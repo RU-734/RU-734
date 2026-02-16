@@ -2,123 +2,100 @@
 
 # Muzan Sano
 
-**Cybersecurity & AI Researcher | Adversarial ML Specialist | Autonomous Systems Engineer**  
+**Cybersecurity & Artificial Intelligence Researcher**  
 📍 Nairobi, Kenya  
-📧 sanosensei36@gmail.com · research.unit734@proton.me  
-🔗 GitHub: [734ai](https://github.com/734ai) · [RU-734](https://github.com/RU-734) · [ai-research00](https://github.com/ai-research00)  
+📧 sanosensei36@gmail.com | research.unit734@proton.me  
+
+🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
+🔗 Hugging Face: [unit731](https://huggingface.co/unit731)  
 🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)  
-📝 Research & Analysis: [NorthernTribe Insider](https://shorturl.at/8RHHa)
+📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
 
-## Research Overview
+## Professional Overview
 
-Independent research initiative operating at the intersection of **Cybersecurity, Artificial Intelligence, and Autonomous Systems**, with a primary focus on **adversarial environments**, **nation-state threat modeling**, and **AI system exploitation**.
+Self-directed researcher specializing in offensive cybersecurity, adversarial artificial intelligence, and autonomous defense systems. Contributor to coordinated vulnerability programs, including **Google VRP**, **Microsoft MSRC**, and select private bounty initiatives.
 
-This body of work prioritizes **operational realism** over theoretical abstraction. Research artifacts include tooling, simulations, experiments, and long-form analyses designed to understand how intelligent systems behave when actively contested by capable adversaries.
+🔹 Model development, training, and benchmarking  
+🔹 Adversarial AI research and prompt injection testing  
+🔹 Red team operations and nation-state threat emulation  
+🔹 Autonomous system design and multi-agent coordination  
+🔹 Applied cybersecurity research integrating AI and operational realism  
 
----
-
-## Professional Summary
-
-Self-directed and battle-tested researcher specializing in **offensive cybersecurity**, **adversarial machine learning**, and **autonomous defense architectures**.
-
-Contributor to high-signal vulnerability and security research programs, including **Google VRP**, **Microsoft MSRC**, and select private initiatives.
-
-Primary areas of expertise include:
-- Nation-state adversary emulation and red team operations  
-- LLM red teaming, prompt injection, and AI system subversion  
-- Design of resilient, hardened infrastructures  
-- Autonomous interception, decision-making, and response platforms  
-- AI deception, model exploitation, and multi-agent coordination  
-
-This work blends red team tradecraft, AI engineering, and systems thinking to address threats across **cyber**, **cognitive**, and **autonomous operational domains**.
+Focuses on real-world threat conditions, designing and stress-testing intelligent systems for resilience, safety, and operational effectiveness.
 
 ---
 
-## Research Domains
+## Key Accomplishments
 
-### Artificial Intelligence & Adversarial ML
-- LLM exploitation and robustness testing  
-- Model manipulation, deception, and alignment failure analysis  
-- Autonomous agent coordination under adversarial pressure  
-
-### Cybersecurity & Threat Research
-- Nation-state and APT tradecraft analysis  
-- End-to-end attack chain modeling  
-- Living-off-the-land persistence techniques  
-- Malware tooling, infrastructure, and OPSEC analysis  
-
-### Autonomous & Distributed Systems
-- Resilient system design under hostile conditions  
-- Fault tolerance and degradation modeling  
-- Decentralized coordination and control  
+🔹 Developed and deployed multiple AI models for phishing, social engineering, and adversarial detection  
+🔹 Built and benchmarked multi-model inference pipelines for robust evaluation  
+🔹 Designed prompt injection and LLM exploitation testbeds  
+🔹 Conducted advanced research in AI deception, model subversion, and alignment stress testing  
+🔹 Contributed vulnerability findings to elite disclosure programs and private security initiatives  
+🔹 Engineered autonomous reconnaissance and threat analysis frameworks  
+🔹 Published applied research and threat intelligence on **NorthernTribe Insider**
 
 ---
 
-## Methodology
+## Research & Engineering Focus
 
-- First-principles analysis  
-- Empirical experimentation over assumption  
-- Reproducible, tool-backed research  
-- Emphasis on mechanisms, not indicators  
-- Validation against real-world incidents and adversary behavior  
+**Artificial Intelligence**  
+🔹 Custom model creation and fine-tuning  
+🔹 Adversarial robustness evaluation  
+🔹 Multi-modal detection pipelines  
+🔹 Behavioral and stylometry analysis  
 
-The objective is not detection theater—but **understanding systems deeply enough to break, defend, and redesign them**.
+**Benchmarking & Evaluation**  
+🔹 Comparative model benchmarking  
+🔹 Performance evaluation across datasets  
+🔹 Safety and failure-mode analysis  
 
----
-
-## Selected Research Projects
-
-### NetSpionage  
-**Focus:** Cyber-espionage infrastructure and long-term campaign analysis  
-**Scope:** C2 behavior, OPSEC patterns, tooling reuse  
-
-### Autonomous Threat Lab  
-**Focus:** Intelligent agents in contested security environments  
-**Scope:** Adaptive decision-making, evasion, interception  
-
-### AI Threat Hunter  
-**Focus:** Machine-learning-assisted threat discovery  
-**Scope:** Behavioral anomaly detection and model robustness  
-
-### RedOps Toolkit  
-**Focus:** Adversary emulation and red team research utilities  
-**Scope:** Tradecraft simulation, attack-chain modeling  
+**Cybersecurity Applications**  
+🔹 Offensive security simulation and red team operations  
+🔹 Threat emulation and detection pipelines  
+🔹 Autonomous system integration for defense scenarios  
 
 ---
 
-## Tooling & Technical Stack
+## Active Projects
 
-**Languages**  
-Python · Go · Rust · C/C++ · Bash · PowerShell  
-
-**Platforms & Infrastructure**  
-Linux (Arch, Kali) · Cloud (AWS, GCP, Azure) · Containers & orchestration  
-
-**Security Tooling**  
-Offensive & defensive frameworks · Custom analysis pipelines · OSINT systems  
+🔹 AI Phishing & Social Engineering Detection Platforms  
+🔹 Prompt Injection Evaluation Frameworks  
+🔹 Multi-Model Benchmarking Testbeds  
+🔹 Autonomous Threat Analysis Pipelines  
+🔹 Adversarial LLM Evaluation Systems  
 
 ---
 
-## Research Philosophy
+## Publications
 
-- Depth over breadth  
-- Signal over noise  
-- Capability over credentials  
-- Systems fail quietly before they fail catastrophically  
+Research and technical analysis are published through **NorthernTribe Insider**, covering:
 
-This research is optimized for **accuracy, longevity, and adversarial relevance**—not trends or visibility.
-
----
-
-## Collaboration & Contact
-
-Collaboration is selective and research-driven.
-
-- GitHub: https://github.com/734ai  
-- Email: research.unit734@proton.me  
+🔹 Nation-state cyber operations  
+🔹 AI weaponization and adversarial use cases  
+🔹 Exploit research and security engineering  
+🔹 Red team and autonomous systems research  
 
 ---
 
-> _“Complex systems reveal their truth only when they are pushed to failure.”_
+## Support My Research
+
+If you would like to support ongoing model development and cybersecurity research:
+
+<div class="button-container">
+  <a href="https://www.buymeacoffee.com/muzan.sano" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=8VM2Y5U33UC8U" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## Contact
+
+📧 sanosensei36@gmail.com  
+📧 research.unit734@proton.me
